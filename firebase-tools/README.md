@@ -1,4 +1,4 @@
-# docker-firebase-tools
+# firebase-tools image
 
 `stackdumper/firebase-tools`
 

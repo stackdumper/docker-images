@@ -1,4 +1,4 @@
-# docker-typescript
+# typescript image
 
 `stackdumper/typescript`
 

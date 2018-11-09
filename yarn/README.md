@@ -1,4 +1,4 @@
-# docker-yarn
+# yarn image
 
 `stackdumper/yarn`
 
